@@ -8,7 +8,7 @@
         "Bot"
     ],
     "website": "https://youtube.com/channel/UCmGBpXoM-OEm-FacOccVKgQ",
-    "repository": "https://github.com/MRK-YT/GoFile-Bot",
+    "repository": "https://github.com/msekarlic/GoFile-Bot",
     "success_url": "https://youtube.com/channel/UCmGBpXoM-OEm-FacOccVKgQ",
     "env": {
         "API_ID": {
