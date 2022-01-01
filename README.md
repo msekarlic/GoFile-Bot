@@ -19,7 +19,7 @@ A telegram media to [gofile](https://telegram.me/MT_GoFile_Bot) bot
 <details><summary>Deploy To Heroku</summary>
 <p>
 <br>
-<a href="https://heroku.com/deploy?template=https://github.com/MRK-YT/GoFile-Bot/tree/main">
+<a href="https://heroku.com/deploy?template=https://github.com/msekarlic/GoFile-Bot/tree/main">
   <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy">
 </a>
 </p>
